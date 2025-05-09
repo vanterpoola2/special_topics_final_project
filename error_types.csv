@@ -1,0 +1,134 @@
+Language,Incorrectly Spelled Word,Correctly Spelled Word,Type of Error,Occurrence Count,Errors
+Bosnian,actident,accident,spelling,1,spelling
+Bosnian,actidamy,accident,spelling,1,spelling
+Danish,afterwoods,afterwards,spelling,1,spelling
+Danish,amd,and,spelling,1,spelling
+Bosnian,anywey,anyway,spelling,1,spelling
+Danish,ate,are,spelling,1,spelling
+Bosnian,eated,ate,past-tense verb,1,irregular past-tense verb
+Danish,babys,babies,plural - changing y - i,2,noun plural
+Spanish,baiby,baby,spelling,1,spelling
+Bosnian,bool,ball,spelling,4,spelling
+Bosnian,bal,ball,spelling,2,spelling
+Spanish,boll,ball,spelling,2,spelling
+Bosnian,boll,ball,spelling,1,spelling
+Danish,call,ball,spelling,1,spelling
+Danish,bal,ball,spelling,1,spelling
+Danish,baal,ball,spelling,1,spelling
+Spanish,basketboll,basketball,spelling,1,spelling
+Spanish,bech,beach,spelling,1,spelling
+Spanish,beuriful,beautiful,spelling,1,spelling
+Danish,beudiful,beautiful,spelling - d - t,1,voiced/voiceless inconsistencies
+Danish,beautyful,beautiful,spelling - y - i,1,spelling
+Bosnian,becacose,because,spelling,2,spelling
+Bosnian,bin,been,spelling,2,spelling
+Bosnian,benn,been,spelling,1,spelling
+Spanish,bolfed,boyfriend,spelling,1,spelling
+Bosnian,brouth,brought,spelling - silent letters (g),1,spelling
+Bosnian,chatch,catch,spelling,2,spelling
+Spanish,caten,catch,,1,spelling
+Danish,catchet,caught,past-tense verb,1,irregular past-tense verb
+Danish,catched,caught,past-tense verb,1,irregular past-tense verb
+Bosnian,childs,children,plural,2,plural
+Bosnian,cildrens,children,plural,1,plural
+Spanish,cyti,city,spelling,1,spelling
+Danish,cloes,clothes,spelling - omitted th,1,spelling
+Bosnian,continion,continue to,,1,spelling
+Danish,cuold,could,spelling,1,spelling
+Danish,cores,course,spelling - silent letters (u),1,spelling
+Bosnian,crassed,crashed,spelling,1,spelling
+Spanish,cryes,cries,plural - changing y - i,1,plural
+Danish,dident,did not,contractions,1,contractions
+Bosnian,medick,doctor,spelling,2,spelling
+Bosnian,das,does,spelling,1,spelling
+Danish,drees,dress,spelling,1,spelling
+Danish,ekephant,elephant,spelling,1,spelling
+Spanish,elefant,elephant,spelling - f - ph,1,sound changes
+Bosnian,fool,fall,spelling,1,spelling
+Spanish,full,fall,spelling,1,spelling
+Danish,farst,fast,spelling,1,spelling
+Danish,falled,fell,past-tense verb,4,irregular past-tense verb
+Bosnian,feel,fell,spelling,2,spelling
+Spanish,falled,fell,past-tense verb,1,irregular past-tense verb
+Bosnian,fel,fell,spelling,1,spelling
+Bosnian,four,for,spelling,1,spelling
+Bosnian,foreved,forever,spelling,1,spelling
+Danish,freinds,friends,spelling,1,spelling
+Spanish,frients,friends,spelling - t - d,1,voiced/voiceless inconsistencies
+Danish,fan,fun,spelling,1,spelling
+Danish,givet,gave,past-tense verb,1,irregular past-tense verb
+Spanish,jiraffe,giraffe,spelling - j - g,4,voiced/voiceless inconsistencies
+Spanish,jirraffe,giraffe,spelling - j - g,1,voiced/voiceless inconsistencies
+Bosnian,girlsfrend,girlfriend,spelling,1,spelling
+Spanish,girlnd,girlfriend,spelling,1,spelling
+Spanish,girldfriend,girlfriend,spelling,1,spelling
+Bosnian,hawed,had,spelling,3,spelling
+Bosnian,hat,had,spelling t - d,1,voiced/voiceless inconsistencies
+Danish,heard,heart,spelling - d - t,1,voiced/voiceless inconsistencies
+Bosnian,hart,hurt,spelling,1,spelling
+Danish,jumpes,jumps,plural,1,verb inflection
+Danish,joumps,jumps,spelling,1,spelling
+Danish,kissede,kissed,spelling,1,spelling
+Bosnian,knew,know,present tense,1,present tense
+Spanish,lough,laugh,spelling,1,spelling
+Danish,loose,lose,spelling,2,spelling
+Spanish,lobe,love,spelling - b - v,1,sound changes
+Bosnian,maked,made,past-tense verb,1,irregular past-tense verb
+Bosnian,makel,make,spelling,1,spelling
+Bosnian,menager,manager,spelling,1,spelling
+Bosnian,marrijed,married,spelling,1,spelling
+Bosnian,meried,married,spelling,1,spelling
+Danish,marryes,married,verb conjugation - changing y - i,1,irregular past-tense verb
+Danish,marry,mary,spelling,3,spelling
+Bosnian,mystake,mistake,spelling,1,spelling
+Spanish,misture,mixture,spelling s - x,1,sound changes
+Danish,in,on,preposition,1,preposition
+Bosnian,auth,out,spelling,1,spelling
+Bosnian,pol,pool,spelling,3,spelling
+Bosnian,poll,pool,spelling,1,spelling
+Danish,poll,pool,spelling,1,spelling
+Danish,polo,pool,spelling,1,spelling
+Danish,preddy,pretty,spelling - d - t,1,voiced/voiceless inconsistencies
+Danish,restureng,restaurant,spelling,1,spelling
+Danish,sai,say,spelling,1,spelling
+Danish,siads,says,present-tense,1,spelling
+Bosnian,skary,scary,spelling,1,spelling
+Bosnian,seacond,second,spelling,1,spelling
+Bosnian,smailling,smiling,spelling,1,spelling
+Danish,stribe,stipe,spelling - b - p,1,voiced/voiceless inconsistencies
+Spanish,history,story,spelling,1,spelling
+Bosnian,sudenli,suddenly,spelling - i - y,1,spelling
+Bosnian,swimed,swam,past-tense verb,2,irregular past-tense verb
+Bosnian,swimm,swim,spelling,2,spelling
+Danish,swin,swim,spelling - n - m,1,sound changes
+Spanish,swimg,swimming,present particle,1,present particle
+Spanish,swingpool,swimming pool,spellling - present particle,1,spelling
+Bosnian,teen,ten,spelling,1,spelling
+Bosnian,thankfull,thankful,spelling,1,spelling
+Danish,thonkfull,thankful,spelling,1,spelling
+Bosnian,thet,that,spelling,1,spelling
+Danish,they,the,,1,spelling
+Spanish,tha,the,,1,spelling
+Bosnian,thems,their,plural object pronouns,2,pronouns
+Bosnian,theyr,their,homophone substitution,1,pronouns
+Danish,ther,there,spelling - silent letters (e),1,spelling
+Danish,tha,they,,1,spelling
+Spanish,drow,throw,spelling - d - th,1,sound changes
+Danish,cast,throw,,1,spelling
+Spanish,tall,told,spelling,1,spelling
+Spanish,taked,took,past-tense verb,1,irregular past-tense verb
+Bosnian,wery,very,spelling,2,spelling
+Bosnian,verry,very,spelling,1,spelling
+Bosnian,verri,very,spelling,1,spelling
+Bosnian,wakt,walked,spelling t - d,1,voiced/voiceless inconsistencies
+Bosnian,wanna,want to,informal contraction,2,informal contraction
+Bosnian,wother,water,spelling,2,spelling
+Bosnian,woather,water,spelling,1,spelling
+Bosnian,weares,wears,spelling,1,verb inflection
+Danish,ere,were,spelling,1,spelling
+Bosnian,weet,wet,spelling,1,spelling
+Spanish,whit,with,spelling,4,spelling
+Danish,whit,with,spelling,1,spelling
+Spanish,wicht,with,spelling,1,spelling
+Spanish,weith,with,spelling,1,spelling
+Spanish,whid,with,spelling - d - th,1,sound changes
